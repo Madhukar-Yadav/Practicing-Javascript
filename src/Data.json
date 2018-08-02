@@ -1,0 +1,20 @@
+{
+    "productsList": [
+                {
+                    "ProductID": 1,
+                    "ProductName": "Product 1"
+                },
+                {
+                    "ProductID": 2,
+                    "ProductName": "Product 2"
+                },
+                {
+                    "ProductID": 3,
+                    "ProductName": "Product 3"
+                },
+                {
+                    "ProductID": 4,
+                    "ProductName": "Product 4"
+                }
+              ]
+}
